@@ -1,0 +1,55 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.one{
+    color: black;
+    background-color: aqua;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+.two{
+    color: black;
+    background-color: blue;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+.three{
+    display: flex;
+    
+
+}
+.four{
+    display: flex;
+
+}
+.ab{
+    color: black;
+    background-color: blueviolet;
+    height: 200px;
+    width: 50%;
+    text-align: center;
+}
+.cd{
+    color: black;
+    background-color: sandybrown;
+    height: 200px;
+    width: 50%;
+    text-align: center;
+}
+.ef{
+    color: black;
+    background-color: firebrick;
+    height: 200px;
+    width: 50%;
+    text-align: center;
+}
+.gh{
+    color: black;
+    background-color: mediumturquoise;
+    height: 200px;
+    width: 50%;
+    text-align: center;
+}
